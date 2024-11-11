@@ -1,3 +1,3 @@
 # mehdiakchiche.github.io
 
-Jeu Pyxel
+JEU SNAKE
